@@ -1,3 +1,17 @@
+"Introduction (Wikipedia Glossary of Astronomy)"|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_astronomy"">Wikipedia's Glossary of astronomy</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Astronomy)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Astronomy-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Astronomy-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_astronomy"">""Glossary of astronomy""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_astronomy"">https://en.wikipedia.org/wiki/Glossary_of_astronomy</a></p>
+"
 "<a href=""https://en.wikipedia.org/wiki/A-type_star"" class=""mw-redirect"" title=""A-type star"">A-type star</a> (Wikipedia Glossary of Astronomy)"|"
 <p>Looks like this term doesn't have a definition yet.</p>
 <p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Astronomy-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_astronomy"">""Glossary of astronomy""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
